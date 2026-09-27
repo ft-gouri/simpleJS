@@ -7,7 +7,5 @@ function armstrong(n) {
     return a * a * a + c * c * c + d * d * d == n;
 }
 
-
-
 console.log(armstrong(153));
 console.log(armstrong(370));
